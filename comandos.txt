@@ -1,0 +1,5 @@
+git clone https://github.com/nayaleticia99/WEB001_AF.git
+git add nome.txt
+git add comandos.txt
+git commit -m "Prova final"
+git push origin master
